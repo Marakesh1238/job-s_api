@@ -1,0 +1,11 @@
+# Django
+SECRET_KEY=your-secret-key
+DEBUG=1
+ALLOWED_HOSTS=localhost,127.0.0.1
+
+# База данных
+DB_NAME=wallets_db
+DB_USER=wallets_user
+DB_PASSWORD=wallets_password
+DB_HOST=db
+DB_PORT=5432
